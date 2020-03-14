@@ -4725,11 +4725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hugo\\Documents\\BotAventure\\Aventure\\Aventure.csproj",
+      "projectUniqueName": "C:\\Users\\Hugo\\Documents\\Git\\Aventure_Bot_Discord\\BotAventure\\Aventure\\Aventure.csproj",
       "projectName": "Aventure",
-      "projectPath": "C:\\Users\\Hugo\\Documents\\BotAventure\\Aventure\\Aventure.csproj",
+      "projectPath": "C:\\Users\\Hugo\\Documents\\Git\\Aventure_Bot_Discord\\BotAventure\\Aventure\\Aventure.csproj",
       "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hugo\\Documents\\BotAventure\\Aventure\\obj\\",
+      "outputPath": "C:\\Users\\Hugo\\Documents\\Git\\Aventure_Bot_Discord\\BotAventure\\Aventure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
